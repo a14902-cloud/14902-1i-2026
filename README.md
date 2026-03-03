@@ -6,17 +6,32 @@ Os exercícios incluem verificações de números, idades, autenticação simple
 
 # 📘 Conteúdos abordados
 Verificação de números positivos/negativos
+
 Determinação de maioridade
+
 Verificação de paridade
+
 Comparação de valores
+
 Validação de password
+
 Classificação de notas
+
 Classificação por faixa etária
+
 Verificação de múltiplos
+
 Autenticação simples (user + senha)
+
 Verificação de intervalos
+
 Simulação de levantamento bancário
+
 Determinação do maior entre quatro valores
+
 Cálculo de IMC
+
 Cálculo de descontos
+
 Verificação de ano bissexto
+
